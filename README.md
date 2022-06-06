@@ -23,8 +23,16 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100"/>
  </div>
+ 
+ ## 📫 Reach me 
+ <div id="header" align="start">
+   <img src="https://media.giphy.com/media/S73Tp2ChbyC7dI0w6R/giphy.gif" width="100"/>
+  <b>joshua.a.darling@gmail.com</b>
+   </div>
+   
+ 
 
 
 <!--
