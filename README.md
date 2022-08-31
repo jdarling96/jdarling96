@@ -11,7 +11,7 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-darling-dev/)
 
-[Campout](https://campout-webapp.herokuapp.com/)
+
 
 
 
@@ -33,6 +33,15 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
    <img src="https://media.giphy.com/media/S73Tp2ChbyC7dI0w6R/giphy.gif" width="100"/>
   <b>joshua.a.darling@gmail.com</b>
    </div>
+ 
+ ## :zap: Projects
+ 
+ [Live Site](https://campout-webapp.herokuapp.com/)
+ 
+ [Repo](https://github.com/jdarling96/Campout-capstone-1)
+ 
+ ![campout-homepage](https://user-images.githubusercontent.com/28359915/187589988-d3b5169b-2eb7-42a4-88b4-2f1404487161.png)
+
    
  
 
