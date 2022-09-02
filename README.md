@@ -43,7 +43,9 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
  ![campout-homepage](https://user-images.githubusercontent.com/28359915/187589988-d3b5169b-2eb7-42a4-88b4-2f1404487161.png)
 
    
+ ## 🌱 Learning
  
+ Im currently learning about Node.js and building my own APIs in Express. Im also practicing writing SQL on the backend with a popular library called pg, this is a more bare bones approach and differs from my previous experience of working with an ORM to manipulate data on a Postgres database.
 
 
 <!--
