@@ -45,7 +45,7 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
    
  ## 🌱 Learning
  
- Im currently learning about Node.js and building my own APIs in Express. Im also practicing writing SQL on the backend with a popular library called pg, this is a more bare bones approach and differs from my previous experience of working with an ORM to manipulate data on a Postgres database.
+ Im currently learning more about Node.js and building my own APIs in Express. Im also practicing writing SQL on the backend with a popular library called pg, this is a more bare bones approach and differs from my previous experience of working with an ORM to manipulate data on a Postgres database. Allthoug PG isnt an ORM you can still create some similiar functionaily by incorporating OO design into your database.
 
 
 <!--
