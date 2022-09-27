@@ -26,6 +26,10 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100"/>
+  
+  <img src="https://user-images.githubusercontent.com/28359915/192436385-b643bd8d-807e-4163-9008-1bfa722ee1d6.gif" width="100"/>
+  
+
  </div>
  
  ## 📫 Reach me 
@@ -45,7 +49,13 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
    
  ## 🌱 Learning
  
- Im currently learning more about Node.js and building my own APIs in Express. Im also practicing writing SQL on the backend with a popular library called pg, this is a more bare bones approach and differs from my previous experience of working with an ORM to manipulate data on a Postgres database. Allthoug pg isnt an ORM you can still replicate some similiar functionality by incorporating OO design into your database.
+ I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works.
+
+## 🔭 Upcoming Project
+
+ Working on a full stack application that mimics a job board. I recently finished up the backend in Express.JS and utilized TDD for developing the API endpoints and routes. All of the data is stored on a Postgres database. So far it has made for a smooth and straightforward development process with full test coverage. The next phase will be developing the front end in React. 
+ 
+ 
 
 
 <!--
