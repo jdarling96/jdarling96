@@ -51,7 +51,7 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
  
  I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works.
 
-## 🔭 Upcoming Project
+## 🔭 Upcoming Projects
 
  Working on a full stack application that mimics a job board. I recently finished up the backend in Express.JS and utilized TDD for developing the API endpoints and routes. All of the data is stored on a Postgres database. So far it has made for a smooth and straightforward development process with full test coverage. The next phase will be developing the front end in React. 
  
