@@ -55,6 +55,13 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
 
  Working on a full stack application that mimics a job board. I recently finished up the backend in Express.JS and utilized TDD for developing the API endpoints and routes. All of the data is stored on a Postgres database. So far it has made for a smooth and straightforward development process with full test coverage. The next phase will be developing the front end in React. 
  
+## 👯 Collaboration
+
+  <img width="432" alt="Screen Shot 2022-09-27 at 10 20 34 PM" src="https://user-images.githubusercontent.com/28359915/192686888-f7566047-7048-4408-a292-10f38c1c5ccd.png">
+  
+  [DMPJ](https://www.meetup.com/denver-mock-programming-job-meetup/)
+  
+  Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code.
  
 
 
