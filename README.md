@@ -49,7 +49,7 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
    
  ## 🌱 Learning
  
- I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works.
+ I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works. 
 
 ## 🔭 Upcoming Projects
 
@@ -63,6 +63,10 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
   [DMPJ](https://www.meetup.com/denver-mock-programming-job-meetup/)
   
   Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code.
+  
+## 💬 Lets Talk About ...
+Lets chat about web flow and the direction it is headed. How does this effect front-end developers who work for smaller oganizations?
+  
  
 
 
