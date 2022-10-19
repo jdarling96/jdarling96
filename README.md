@@ -62,7 +62,7 @@ Im a fullstack developer with a background in IT. I've spent the past 2 years pr
   
   [DMPJ](https://www.meetup.com/denver-mock-programming-job-meetup/)
   
-  Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code.
+  Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code. Currently working on our first product will be a social network which makes it easier for people to connect with the people they wish they knew. Java, Typescript, Bitcoin's Lightning Network, Angular, MySQL, and Verified Credentials are a few of the technologies we will be using.
   
 ## 💬 Lets Talk About ...
 Lets chat about web flow and the direction it is headed. How does this effect front-end developers who work for smaller oganizations?
