@@ -45,6 +45,8 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
  [Repo](https://github.com/jdarling96/Campout-capstone-1)
  
  ![campout-homepage](https://user-images.githubusercontent.com/28359915/187589988-d3b5169b-2eb7-42a4-88b4-2f1404487161.png)
+ 
+ ![Hack-or-snooze](https://github.com/jdarling96/Hack-or-Snooze)
 
    
  ## 🌱 Learning
