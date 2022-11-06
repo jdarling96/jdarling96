@@ -17,20 +17,26 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
 
 ## 🛠 Skills
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100"/>
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
   
-  <img src="https://user-images.githubusercontent.com/28359915/192436385-b643bd8d-807e-4163-9008-1bfa722ee1d6.gif" width="100"/>
-  
-
- </div>
+  |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdarling96&theme=github_dark&layout=compact&hide_border=true" /></a> |
+</div>
+ 
+ 
+ 
+ 
  
  ## 📫 Reach me 
  <div id="header" align="start">
@@ -67,8 +73,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
   Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code. Currently working on our first product will be a social network which makes it easier for people to connect with the people they wish they knew. Java, Typescript, Bitcoin's Lightning Network, Angular, MySQL, and Verified Credentials are a few of the technologies we will be using.
   
 ## 💬 Lets Talk About ...
-Lets chat about technologies like web flow and no code solutions to building front end UI's. How does this effect the collaboration between designers and developers?
-  
+Open source! Any cool projects to work on or help contibute towards?  
  
 
 
