@@ -30,6 +30,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
   <img width=50px src="https://skills.thijs.gg/icons?i=jquery&theme=dark">
   <img width=50px src="https://skills.thijs.gg/icons?i=react&theme=dark">
   <img width=50px src="https://skills.thijs.gg/icons?i=ts&theme=dark">
+  <img width=50px src="https://skills.thijs.gg/icons?i=postgres&theme=dark">
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 
