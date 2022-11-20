@@ -62,7 +62,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
    
  ## 🌱 Learning
  
- I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works. 
+ I'm currently taking a deep dive into React and how it works under the hood compared to vanilla JS. I picked up the latest edition of You Don't Know JS Yet! I've become really infatuated with the more profound learnings of Javascript and going beyond the scope of why something works. I'm also grinding leetcode and getting comfortable with data structures and algorithms.  
 
 ## 🔭 Upcoming Projects
 
