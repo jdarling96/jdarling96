@@ -57,6 +57,13 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
  
  ![campout-homepage](https://user-images.githubusercontent.com/28359915/187589988-d3b5169b-2eb7-42a4-88b4-2f1404487161.png)
  
+  [Live Site](http://joshdev-jobly.surge.sh/)
+  
+  [Repo](https://github.com/jdarling96/Jobly-v2)
+ 
+ ![jobly-companies](https://user-images.githubusercontent.com/28359915/206633302-abe7bac3-824b-4f59-958a-7e3c5e9a4728.png)
+
+ 
  ![Hack-or-snooze](https://github.com/jdarling96/Hack-or-Snooze)
 
    
