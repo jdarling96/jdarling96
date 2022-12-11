@@ -51,20 +51,22 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
  
  ## :zap: Projects
  
- [Live Site](https://campout-webapp.herokuapp.com/)
+ [Campout-Live-Site](https://campout-webapp.herokuapp.com/)
  
- [Repo](https://github.com/jdarling96/Campout-capstone-1)
+ [Campout-Repo](https://github.com/jdarling96/Campout-capstone-1)
  
  ![campout-homepage](https://user-images.githubusercontent.com/28359915/187589988-d3b5169b-2eb7-42a4-88b4-2f1404487161.png)
  
-  [Live Site](http://joshdev-jobly.surge.sh/)
+  [Jobly-Live-Site](http://joshdev-jobly.surge.sh/)
   
-  [Repo](https://github.com/jdarling96/Jobly-v2)
+  [Jobly-Repo](https://github.com/jdarling96/Jobly-v2)
  
  ![jobly-companies](https://user-images.githubusercontent.com/28359915/206633302-abe7bac3-824b-4f59-958a-7e3c5e9a4728.png)
 
+  [Hack-or-Snooze](https://github.com/jdarling96/Hack-or-Snooze)
  
- ![Hack-or-snooze](https://github.com/jdarling96/Hack-or-Snooze)
+ ![Hack-or-Snooze-Home](https://user-images.githubusercontent.com/28359915/206889477-8b8b3477-1b9d-40e0-a1ec-d2f36859fd22.png)
+ 
 
    
  ## 🌱 Learning
