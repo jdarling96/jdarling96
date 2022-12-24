@@ -75,7 +75,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
 
 ## 🔭 Upcoming Projects
 
- Working on a full stack application that mimics a job board. I recently finished up the backend in Express and utilized TDD for developing the API endpoints and routes. All of the data is stored on a Postgres database. So far it has made for a smooth and straightforward development process with full test coverage. The next phase will be developing the front end in React. Check out a cool little game I made solely through React!
+ Just wrapped up a full stack application that mimics a job board. I recently finished up the backend in Express and utilized TDD for developing the API endpoints and routes. All of the data is stored on a Postgres database. So far it has made for a smooth and straightforward development process with full test coverage. The front end is built with React! Speaking of React check out this cool game I built called lights out.
  [Lights Out](https://github.com/jdarling96/Lights-Out)
  
 ## 👯 Collaboration
