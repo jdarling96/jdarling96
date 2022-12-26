@@ -11,6 +11,12 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-darling-dev/)
 
+[Jobly-Live-Site](http://joshdev-jobly.surge.sh/)
+
+[Campout-Live-Site](https://campout-webapp.herokuapp.com/)
+
+[Hack-or-Snooze-Home](https://user-images.githubusercontent.com/28359915/206889477-8b8b3477-1b9d-40e0-a1ec-d2f36859fd22.png)
+
 
 
 
