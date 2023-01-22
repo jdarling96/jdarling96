@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a full-stack developer with a background in IT. I've spent the past 2 years providing technical support to clients regarding computer, network, and software application problems. This has given me an inside look at how users interact with software. It also allowed me to work with many intelligent and creative developers. I can blame them for giving me the programming itch! I love building beautiful, functional web apps emphasizing clean and modular code. I'm a Colorado native and an outdoorsman at heart. After everything we have faced these past couple of years, I belive in building software that strives in making our everyday lives easier.
+I'm a full-stack developer with a background in IT. I've spent the past 2 years providing technical support to clients regarding computer, network, and software application problems. This has given me an inside look at how users interact with software. It also allowed me to work with many intelligent and creative developers. I can blame them for giving me the programming itch! I love building beautiful, functional web apps emphasizing clean and well designed code. I'm a Colorado native and an outdoorsman at heart. After everything we have faced these past couple of years, I belive in building software that strives in making our everyday lives easier.
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-darling-dev/)
