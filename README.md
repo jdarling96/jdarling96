@@ -93,7 +93,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
   Currenty working in a group called Denver Mock Programming Job Meetup to bring a full stack application to market. The goal of the DMPJ is to create opportunities and expectations for developers to create useful, professional, real-world code. Currently working on our first product will be a social network which makes it easier for people to connect with the people they wish they knew. Java, Typescript, Bitcoin's Lightning Network, Angular, MySQL, and Verified Credentials are a few of the technologies we will be using.
   
 ## 💬 Lets Talk About ...
-Open source! Any cool projects to work on or help contibute towards?  
+Chatgpt and the future of machine learning!  
  
 
 
