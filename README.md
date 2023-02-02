@@ -77,7 +77,7 @@ I'm a full-stack developer with a background in IT. I've spent the past 2 years 
    
  ## 🌱 Learning
  
- I'm currently taking a deep dive into Data Structures and Algorithms. I just Recently picked up a copy of Cracking the Coding Interview.  
+ I'm currently taking a deep dive into Data Structures and Algorithms. I just Recently picked up a copy of Cracking the Coding Interview. Continuing to build a project in Java & Springboot.  
 
 ## 🔭 Upcoming Projects
 
